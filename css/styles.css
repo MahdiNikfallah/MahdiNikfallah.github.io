@@ -10170,7 +10170,7 @@ section.resume-section .resume-section-content {
   background: #BD5D38;
   animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
 }
-.bar .progress-line.html span{
+.bar .progress-line.unity span{
   width: 90%;
 }
 .bar .progress-line.Unity span{
@@ -10179,17 +10179,38 @@ section.resume-section .resume-section-content {
 .bar .progress-line.cuda span{
   width: 15%;
 }
-.bar .progress-line.css span{
-  width: 80%;
+.bar .progress-line.csharp span{
+  width: 90%;
 }
-.bar .progress-line.jquery span{
-  width: 70%;
+.bar .progress-line.java span{
+  width: 90%;
 }
-.bar .progress-line.python span{
+.bar .progress-line.img span{
   width: 50%;
 }
-.bar .progress-line.mysql span{
+.bar .progress-line.vr span{
   width: 40%;
+}
+.bar .progress-line.computervision span{
+  width: 40%;
+}
+.bar .progress-line.python span{
+  width: 80%;
+}
+.bar .progress-line.deep span{
+  width: 60%;
+}
+.bar .progress-line.cpp span{
+  width: 60%;
+}
+.bar .progress-line.c span{
+  width: 50%;
+}
+.bar .progress-line.asm span{
+  width: 40%;
+}
+.bar .progress-line.vhdl span{
+  width: 50%;
 }
 .progress-line span::before{
   position: absolute;
